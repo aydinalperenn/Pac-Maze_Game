@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - MazeGeo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Maze
+  - Water
+  - UI
+  - Ground
+  - Camera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Maze
+    uniqueID: 907846261
+    locked: 0
+  - name: Camera
+    uniqueID: 3888366767
+    locked: 0
